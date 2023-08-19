@@ -1,0 +1,21 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icons/Phosphor/Education/GraduationCap">
+<path id="Vector (Stroke)" fill-rule="evenodd" clip-rule="evenodd" d="M11.6471 2.33824C11.8676 2.22059 12.1324 2.22059 12.3529 2.33824L23.6029 8.33824C23.8473 8.46858 24 8.72302 24 9C24 9.27698 23.8473 9.53142 23.6029 9.66176L12.3529 15.6618C12.1324 15.7794 11.8676 15.7794 11.6471 15.6618L0.397059 9.66176C0.152661 9.53142 0 9.27698 0 9C0 8.72302 0.152661 8.46858 0.397059 8.33824L11.6471 2.33824ZM2.34375 9L12 14.15L21.6562 9L12 3.85L2.34375 9Z" fill="url(#paint0_linear_316_10305)"/>
+<path id="Vector (Stroke)_2" fill-rule="evenodd" clip-rule="evenodd" d="M11.3381 8.64721C11.5331 8.28172 11.9874 8.14346 12.3528 8.33838L17.9778 11.3384C18.2222 11.4687 18.3749 11.7232 18.3749 12.0001V22.5001C18.3749 22.9144 18.0391 23.2501 17.6249 23.2501C17.2107 23.2501 16.8749 22.9144 16.8749 22.5001V12.4501L11.647 9.66191C11.2815 9.46699 11.1432 9.01269 11.3381 8.64721Z" fill="url(#paint1_linear_316_10305)"/>
+<path id="Vector (Stroke)_3" fill-rule="evenodd" clip-rule="evenodd" d="M3.37501 9.64648C3.78922 9.64648 4.12501 9.98227 4.12501 10.3965V15.5058L4.12665 15.508L4.12661 15.508C4.68281 16.2551 7.149 19.1246 12 19.1246C16.851 19.1246 19.3172 16.2551 19.8734 15.508L19.875 15.5059V10.3965C19.875 9.98227 20.2108 9.64648 20.625 9.64648C21.0392 9.64648 21.375 9.98227 21.375 10.3965V15.5152L21.375 15.5184C21.3736 15.8394 21.2681 16.1511 21.0743 16.4069C20.3702 17.3514 17.5116 20.6246 12 20.6246C6.48838 20.6246 3.62978 17.3513 2.92574 16.4068C2.73193 16.1511 2.62637 15.8394 2.62501 15.5184L2.625 15.5152H2.62501V10.3965C2.62501 9.98227 2.96079 9.64648 3.37501 9.64648Z" fill="url(#paint2_linear_316_10305)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_316_10305" x1="11.5207" y1="2.62666" x2="11.6724" y2="15.7538" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3BC9FF"/>
+<stop offset="1" stop-color="#5E65EC" stop-opacity="0.89"/>
+</linearGradient>
+<linearGradient id="paint1_linear_316_10305" x1="14.67" y1="8.66851" x2="15.2998" y2="23.2291" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3BC9FF"/>
+<stop offset="1" stop-color="#5E65EC" stop-opacity="0.89"/>
+</linearGradient>
+<linearGradient id="paint2_linear_316_10305" x1="11.6255" y1="9.95278" x2="11.7539" y2="20.6276" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3BC9FF"/>
+<stop offset="1" stop-color="#5E65EC" stop-opacity="0.89"/>
+</linearGradient>
+</defs>
+</svg>

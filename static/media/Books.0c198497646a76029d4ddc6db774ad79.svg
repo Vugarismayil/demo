@@ -1,0 +1,41 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icons/Phosphor/Education/Books">
+<path id="Vector (Stroke)" fill-rule="evenodd" clip-rule="evenodd" d="M3 4.5C3 3.67157 3.67157 3 4.5 3H7.5C8.32843 3 9 3.67157 9 4.5V19.5C9 20.3284 8.32843 21 7.5 21H4.5C3.67157 21 3 20.3284 3 19.5V4.5ZM7.5 4.5H4.5V19.5H7.5V4.5Z" fill="url(#paint0_linear_316_10304)"/>
+<path id="Vector (Stroke)_2" fill-rule="evenodd" clip-rule="evenodd" d="M3 7.5C3 7.08579 3.33579 6.75 3.75 6.75H8.25C8.66421 6.75 9 7.08579 9 7.5C9 7.91421 8.66421 8.25 8.25 8.25H3.75C3.33579 8.25 3 7.91421 3 7.5Z" fill="url(#paint1_linear_316_10304)"/>
+<path id="Vector (Stroke)_3" fill-rule="evenodd" clip-rule="evenodd" d="M7.5 4.5C7.5 3.67157 8.17157 3 9 3H12C12.8284 3 13.5 3.67157 13.5 4.5V19.5C13.5 20.3284 12.8284 21 12 21H9C8.17157 21 7.5 20.3284 7.5 19.5V4.5ZM12 4.5H9V19.5H12V4.5Z" fill="url(#paint2_linear_316_10304)"/>
+<path id="Vector (Stroke)_4" fill-rule="evenodd" clip-rule="evenodd" d="M7.5 16.5C7.5 16.0858 7.83579 15.75 8.25 15.75H12.75C13.1642 15.75 13.5 16.0858 13.5 16.5C13.5 16.9142 13.1642 17.25 12.75 17.25H8.25C7.83579 17.25 7.5 16.9142 7.5 16.5Z" fill="url(#paint3_linear_316_10304)"/>
+<path id="Vector (Stroke)_5" fill-rule="evenodd" clip-rule="evenodd" d="M12.2865 5.40227C12.0711 4.59869 12.5479 3.77266 13.3515 3.55727L16.2615 2.77727C17.0651 2.56187 17.8911 3.03869 18.1065 3.84227L22.0065 18.3923C22.2219 19.1958 21.7451 20.0219 20.9415 20.2373L18.0315 21.0173C17.2279 21.2327 16.4019 20.7558 16.1865 19.9523L12.2865 5.40227ZM16.6515 4.23227L13.7415 5.01227L17.6415 19.5623L20.5515 18.7823L16.6515 4.23227Z" fill="url(#paint4_linear_316_10304)"/>
+<path id="Vector (Stroke)_6" fill-rule="evenodd" clip-rule="evenodd" d="M21.1242 15.433C21.2319 15.833 20.995 16.2446 20.5951 16.3523L16.2451 17.5242C15.8451 17.6319 15.4336 17.395 15.3258 16.9951C15.2181 16.5951 15.4549 16.1836 15.8549 16.0758L20.2049 14.9039C20.6049 14.7962 21.0164 15.0331 21.1242 15.433Z" fill="url(#paint5_linear_316_10304)"/>
+<path id="Vector (Stroke)_7" fill-rule="evenodd" clip-rule="evenodd" d="M18.7996 6.74405C18.9066 7.14422 18.6688 7.55532 18.2687 7.66226L13.9187 8.82476C13.5185 8.9317 13.1074 8.69399 13.0005 8.29382C12.8935 7.89365 13.1312 7.48256 13.5314 7.37561L17.8814 6.21311C18.2816 6.10617 18.6927 6.34388 18.7996 6.74405Z" fill="url(#paint6_linear_316_10304)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_316_10304" x1="5.88016" y1="3.50221" x2="6.95505" y2="20.9411" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3BC9FF"/>
+<stop offset="1" stop-color="#5E65EC" stop-opacity="0.89"/>
+</linearGradient>
+<linearGradient id="paint1_linear_316_10304" x1="5.88016" y1="6.79185" x2="5.88766" y2="8.25058" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3BC9FF"/>
+<stop offset="1" stop-color="#5E65EC" stop-opacity="0.89"/>
+</linearGradient>
+<linearGradient id="paint2_linear_316_10304" x1="10.3802" y1="3.50221" x2="11.4551" y2="20.9411" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3BC9FF"/>
+<stop offset="1" stop-color="#5E65EC" stop-opacity="0.89"/>
+</linearGradient>
+<linearGradient id="paint3_linear_316_10304" x1="10.3802" y1="15.7919" x2="10.3877" y2="17.2506" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3BC9FF"/>
+<stop offset="1" stop-color="#5E65EC" stop-opacity="0.89"/>
+</linearGradient>
+<linearGradient id="paint4_linear_316_10304" x1="14.8208" y1="3.68557" x2="20.3976" y2="20.3218" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3BC9FF"/>
+<stop offset="1" stop-color="#5E65EC" stop-opacity="0.89"/>
+</linearGradient>
+<linearGradient id="paint5_linear_316_10304" x1="18.1081" y1="14.9525" x2="18.1325" y2="17.551" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3BC9FF"/>
+<stop offset="1" stop-color="#5E65EC" stop-opacity="0.89"/>
+</linearGradient>
+<linearGradient id="paint6_linear_316_10304" x1="15.7832" y1="6.2618" x2="15.8074" y2="8.85124" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3BC9FF"/>
+<stop offset="1" stop-color="#5E65EC" stop-opacity="0.89"/>
+</linearGradient>
+</defs>
+</svg>
